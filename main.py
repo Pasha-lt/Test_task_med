@@ -1,4 +1,3 @@
-# Костышен Павел 093-128-22-25, 9139136@gmail.com
 import requests  # pip install requests.
 
 
