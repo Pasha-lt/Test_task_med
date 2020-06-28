@@ -2,7 +2,7 @@
 
 ## How to clone repo
 ```bash
-git clone https://github.com/Pasha-lt/.git
+https://github.com/Pasha-lt/Test_task_med.git
 ```
 
 ## Installation
